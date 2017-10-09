@@ -1,0 +1,18 @@
+.rect-preview-container {
+  text-align: center;
+  padding: 15px;
+}
+
+.rect-preview {
+  border: 3px solid gray;
+  display: inline-block;
+  width: 230px;
+  height: 230px;
+  line-height: 230px;
+  font-size: 0;
+  text-align: center;
+}
+
+.rect {
+  margin-top: 12px;
+}
